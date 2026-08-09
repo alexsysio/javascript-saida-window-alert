@@ -26,7 +26,7 @@
 ### Escrevendo no console do navegador, usando o arquivo .console.log()
 
 &nbsp;
-
+### O que o JavaScript pode fazer?
 ### JavaScript saida Usando window.alert()
 ### Você pode usar uma caixa de alerta para exibir dados:
 
