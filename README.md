@@ -6,7 +6,7 @@
 
 &nbsp;
 
-### JavaScript saida Usando window.alert()
+### O que o JavaScript pode fazer? | JavaScript saida Usando window.alert()
 
 <a href="https://github.com/user-attachments/assets/41ee2738-f077-4027-82b4-204dcd7af794">
   <img width="100%" alt="javascript-pode-alterar-o-conteudo-html" src="https://github.com/user-attachments/assets/41ee2738-f077-4027-82b4-204dcd7af794" />
