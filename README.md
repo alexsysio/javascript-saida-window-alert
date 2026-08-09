@@ -1,6 +1,4 @@
 ### HTML JavaScript
-<img width="1920" height="1032" alt="window-alert" src="https://github.com/user-attachments/assets/41ee2738-f077-4027-82b4-204dcd7af794" />
-
 
 <a href="https://github.com/user-attachments/assets/b84b2e4b-e967-4bf9-9185-ff8fe1f69906">
   <img width="100%" alt="html-javascript" src="https://github.com/user-attachments/assets/b84b2e4b-e967-4bf9-9185-ff8fe1f69906" />
